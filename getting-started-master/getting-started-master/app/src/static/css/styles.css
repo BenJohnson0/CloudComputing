@@ -1,7 +1,8 @@
 body {
     background-color: #f4f4f4;
     margin-top: 50px;
-    font-family: 'Lato';
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
 }
 
 .item {
@@ -15,7 +16,7 @@ body {
 }
 
 .item:hover {
-    box-shadow: 0 0 1em #aaa;
+    box-shadow: 0 0 4em rgb(224, 12, 12);
 }
 
 .item.completed {
